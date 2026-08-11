@@ -7,7 +7,6 @@ I am a BCA student passionate about software development and backend technologie
 ## 🚀 About Me
 
 * 🎓 Pursuing Bachelor of Computer Applications (BCA)
-* 💻 Interested in Java, Backend Development, and DSA
 * 🚁 Interested in Drone Technology
 * 🌱 Always learning and improving my skills
 
@@ -16,7 +15,7 @@ I am a BCA student passionate about software development and backend technologie
 ## 📚 Currently Learning
 
 * ☕ Java Programming
-* 🚀 Backend Development using Spring Boot
+* 🚀 Python
 * 🧩 Data Structures & Algorithms
 * 🗄️ MySQL
 * 🌐 Web Development
@@ -26,6 +25,7 @@ I am a BCA student passionate about software development and backend technologie
 ## 🛠️ Tech Stack & Tools
 ## 💻 Languages
 * Java
+* Python
 * C
 * C++
 * MySQL
