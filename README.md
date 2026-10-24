@@ -53,5 +53,5 @@ I am a BCA student passionate about software development and backend technologie
  
 ## 🌐 Connect With Me
 ## 💼 LinkedIn:
-* Mohammad Jaffar (https://linkedin.com/in/mohammad-jaffar-2508b2372)
+* Mohammad Jaffar (https://linkedin.com/in/mohammad-jaffar0)
 
